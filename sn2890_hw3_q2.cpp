@@ -32,7 +32,7 @@ int main() {
         cout<<user_name<<", you are a Senior."<<endl;
     else if(year_diff > 4)
         //Grad year more than 4 mostly means they aren't in the 4-year program yet.
-        cout<<user_name<<", you aren't in college yet.."<<endl;  
+        cout<<user_name<<", you aren't in college yet.."<<endl;
 
 
 
